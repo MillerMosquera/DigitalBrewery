@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Mille/RiderProjects/DigitalBrewery/Brewery3D/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Mille/RiderProjects/DigitalBrewery/Brewery3D/Content/FirstPerson/MainMenu/MainMenuLevel.umap",
+				"C:/Users/Mille/RiderProjects/DigitalBrewery/Brewery3D/Content/FirstPerson/MainMenu/BP_MainMenuTwinMode.uasset",
 				"C:/Users/Miller/Desktop/DigitalBrewery/Brewery3D/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}

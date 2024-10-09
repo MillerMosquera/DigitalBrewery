@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\miller\\desktop\\digitalbrewery\\brewery3d\\source\\brewery3d\\brewery3d.cpp",
+        "Source": "c:\\users\\mille\\riderprojects\\digitalbrewery\\brewery3d\\source\\brewery3d\\brewery3d.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\miller\\desktop\\digitalbrewery\\brewery3d\\intermediate\\build\\win64\\x64\\brewery3deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\mille\\riderprojects\\digitalbrewery\\brewery3d\\intermediate\\build\\win64\\x64\\brewery3deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\miller\\desktop\\digitalbrewery\\brewery3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brewery3d\\definitions.brewery3d.h",
-            "c:\\users\\miller\\desktop\\digitalbrewery\\brewery3d\\source\\brewery3d\\brewery3d.h"
+            "c:\\users\\mille\\riderprojects\\digitalbrewery\\brewery3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\brewery3d\\definitions.brewery3d.h",
+            "c:\\users\\mille\\riderprojects\\digitalbrewery\\brewery3d\\source\\brewery3d\\brewery3d.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
