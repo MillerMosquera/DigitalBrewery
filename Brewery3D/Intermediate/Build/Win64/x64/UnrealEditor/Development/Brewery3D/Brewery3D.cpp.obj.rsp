@@ -1,11 +1,11 @@
-"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Source\Brewery3D\Brewery3D.cpp"
-/FI"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Definitions.Brewery3D.h"
-/Yu"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.obj"
-/sourceDependencies "C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.dep.json"
-@"C:\Users\Miller\Desktop\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.Shared.rsp"
+"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Source\Brewery3D\Brewery3D.cpp"
+/FI"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Definitions.Brewery3D.h"
+/Yu"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.obj"
+/sourceDependencies "C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.dep.json"
+@"C:\Users\Mille\RiderProjects\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
