@@ -252,6 +252,8 @@
     <None Include="..\..\Brewery3D.uproject"/>
     <None Include="..\..\Source\Brewery3D.Target.cs"/>
     <None Include="..\..\Source\Brewery3DEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
