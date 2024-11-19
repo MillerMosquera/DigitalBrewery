@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-Brewery3D.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.obj"
-"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Default.rc2.res"
-/OUT:"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\UnrealEditor-Brewery3D.lib"
+"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Brewery3D.cpp.obj"
+"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\Default.rc2.res"
+/OUT:"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brewery3D\UnrealEditor-Brewery3D.lib"
