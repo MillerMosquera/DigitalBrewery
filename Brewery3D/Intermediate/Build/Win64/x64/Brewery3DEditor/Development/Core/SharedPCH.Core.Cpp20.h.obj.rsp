@@ -1,4 +1,4 @@
-"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.cpp"
+"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.cpp"
 /I "."
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
@@ -9,10 +9,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/Yc"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h"
-/Fp"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
-/Fo"C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
-/sourceDependencies "C:\proyectos\DigitalBrewery\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
+/Yc"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h"
+/Fp"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
+/Fo"C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
+/sourceDependencies "C:\proyectos\DigitalBrewery interacciones\Brewery3D\Intermediate\Build\Win64\x64\Brewery3DEditor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi
