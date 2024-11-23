@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Brewery3DModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ed67c93e3b9a2bbfc0c371375ea33491287a406")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4c7015e65d540b795bc45454ebe16c51c56bb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Brewery3DModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Brewery3DModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

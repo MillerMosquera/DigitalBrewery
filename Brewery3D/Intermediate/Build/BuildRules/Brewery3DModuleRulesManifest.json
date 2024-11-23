@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Proyectos\\DigitalBrewery\\Brewery3D\\Source\\Brewery3D\\Brewery3D.Build.cs",
-		"C:\\Proyectos\\DigitalBrewery\\Brewery3D\\Source\\Brewery3D.Target.cs",
-		"C:\\Proyectos\\DigitalBrewery\\Brewery3D\\Source\\Brewery3DEditor.Target.cs"
+		"C:\\Users\\Miller\\Documents\\GitHub\\DigitalBrewery\\Brewery3D\\Source\\Brewery3D\\Brewery3D.Build.cs",
+		"C:\\Users\\Miller\\Documents\\GitHub\\DigitalBrewery\\Brewery3D\\Source\\Brewery3D.Target.cs",
+		"C:\\Users\\Miller\\Documents\\GitHub\\DigitalBrewery\\Brewery3D\\Source\\Brewery3DEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
