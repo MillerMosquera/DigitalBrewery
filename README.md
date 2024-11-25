@@ -39,8 +39,8 @@
 - **Hardware**: 
   - CPU: Procesador de 8 núcleos o más
   - GPU: Tarjeta gráfica compatible con DirectX 12
-  - RAM: 8 GB o más
-  - Almacenamiento: 100 GB de espacio disponible
+  - RAM: 16 GB o más
+  - Almacenamiento: 10 GB de espacio disponible
   
 - **Software**: 
   - **Unreal Engine 5.x**
