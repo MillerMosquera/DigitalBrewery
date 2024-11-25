@@ -69,6 +69,15 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/**/Intermediate/*
+Brewery3D/Saved/Telemetry/
+
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignorar carpetas temporales y generadas por Unreal Engine
+Brewery3D/Intermediate/
+Brewery3D/Saved/
+Brewery3D/DerivedDataCache/
+Brewery3D/Saved/Telemetry/
+Brewery3D/Saved/Logs/
